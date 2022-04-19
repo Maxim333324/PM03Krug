@@ -1,0 +1,4 @@
+D:\Users\stu-pksp118\Desktop\PM03Kruglov\PM03Kruglov\obj\Debug\PM03Kruglov.csprojAssemblyReference.cache
+D:\Users\stu-pksp118\Desktop\PM03Kruglov\PM03Kruglov\obj\Debug\PM03Kruglov.Properties.Resources.resources
+D:\Users\stu-pksp118\Desktop\PM03Kruglov\PM03Kruglov\obj\Debug\PM03Kruglov.csproj.GenerateResource.cache
+D:\Users\stu-pksp118\Desktop\PM03Kruglov\PM03Kruglov\obj\Debug\PM03Kruglov.csproj.CoreCompileInputs.cache
